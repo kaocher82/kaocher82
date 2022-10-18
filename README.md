@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 - Email : kaocher82@gmail.com 
 - Whatsapp +8801777510221
+linkedin  https://www.linkedin.com/in/kaocher/
+Facebook https://www.facebook.com/kaocherofficial
 - 
 
 <!---

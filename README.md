@@ -4,9 +4,13 @@
 - 💞️ I’m looking to collaborate on ... web application with machine learning
 - 📫 How to reach me ...
 - Email : kaocher82@gmail.com 
+- linkedin https://www.linkedin.com/in/kaocher/
+-Facebook https://www.facebook.com/kaocherofficial
 - Whatsapp +8801777510221
-linkedin  https://www.linkedin.com/in/kaocher/
-Facebook https://www.facebook.com/kaocherofficial
+
+
+  
+ 
 - 
 
 <!---

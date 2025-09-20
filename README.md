@@ -13,6 +13,7 @@ I'm a freelancer with 10 years of experience in digital marketing and technology
 <br/>
 
 🚀 Proven Results
+
 ✅ Grew a new store from $0 to $20,000/month in revenue from organic traffic in 8 months.
 
 ✅ Doubled a client's conversion rate from 1.5% to 3% through strategic CRO and speed optimization.

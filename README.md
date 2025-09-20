@@ -1,5 +1,16 @@
 Hi there, I'm Kaocher Ahamed 👋
-Certified Shopify Expert & Digital Marketing Specialist
+
+Hey, I'm a Certified Shopify Expert & Shopify developer who does more than just set up stores. I help brands grow, get faster, and make more sales. From custom checkouts to features Shopify doesn’t usually allow, I find ways to make it work.
+
+I work with Shopify 2.0, custom builds, performance tuning, and ongoing store support. I also maintain several popular stores, keeping them fast, polished, and conversion-ready. My code follows best practices for SEO and speed to keep your store performing at its best.
+
+Most of my clients come back and stay long term because I focus on real, maintainable results, not just checking boxes.
+
+If Shopify feels limiting, let’s fix that. I'm here to help you build something better.
+
+
+P.S. If your theme is buggy or was built by less experienced developers in the past, I may recommend a full rebuild to ensure long-term maintainability and seamless integration of new features.
+
 I'm a freelancer with 10 years of experience in digital marketing and technology. As a Certified Shopify Expert, I help e-commerce entrepreneurs transform their stores into powerful sales engines by driving high-intent organic traffic, boosting conversion rates, and fixing the deep technical issues that hold them back from growth. Whether you're launching a new store or scaling an existing one, I provide a clear path to success.
 
 <br/>

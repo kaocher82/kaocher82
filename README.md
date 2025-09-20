@@ -111,8 +111,8 @@ Send me a message for a free Shopify SEO and Performance Audit to discover your 
 - <a href="https://twitter.com/kaocher82">Shopify Developer twitter profile </a>
 - <a href="https://www.upwork.com/freelancers/kaocher">Shopify Developer Design Dropshipping Store, Shopify Virtual Assistant </a>
 - Whatsapp https://wa.me/+8801777510221
-- <a href="https://www.linkedin.com/company/shopifyexpertit"></a> Shopify Expert IT </li>
-- <a href="https://www.linkedin.com/company/aarry"></a> SEO Agnecy </li>
+- <a href="https://www.linkedin.com/company/shopifyexpertit">Shopify Expert IT </a>  </li>
+- <a href="https://www.linkedin.com/company/aarry">SEO Agnecy </a>  </li>
 
 Keywords:
 Shopify Developer | Shopify Expert | Shopify Store Designer | UX Optimization | Shopify Visibility Boost | Technical Support & Store Management

@@ -1,10 +1,8 @@
 
-<body class="bg-gray-100 py-12 px-4 sm:px-6 lg:px-8">
 
-    <div class="max-w-4xl mx-auto bg-white rounded-2xl shadow-lg p-8 md:p-12">
         <!-- Header Section -->
         <header class="text-center mb-10">
-            <h1 class="text-4xl md:text-5xl font-bold text-gray-800">Kaocher Ahamed</h1>
+            <h1>Kaocher Ahamed</h1>
             <p class="text-xl text-gray-600 mt-2">Certified Shopify Expert & Digital Marketing Specialist</p>
         </header>
 

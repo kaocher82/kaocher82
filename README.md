@@ -72,16 +72,16 @@ Connect with me on these platforms:
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/WhatsApp-25D366%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" alt="WhatsApp"/>
 </a><li>
 <a href="https://www.linkedin.com/in/kaocher" target="_blank" rel="noopener noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="Shopify expert linkedin Profile  "/>
 </a><li>
 <a href="https://www.upwork.com/freelancers/kaocher" target="_blank" rel="noopener noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Upwork-6FDA44%3Fstyle%3Dfor-the-badge%26logo%3DUpwork%26logoColor%3Dwhite" alt="Upwork"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Upwork-6FDA44%3Fstyle%3Dfor-the-badge%26logo%3DUpwork%26logoColor%3Dwhite" alt="Top Rated Shopify Expert on Upwork"/>
 </a><li>
 <a href="https://www.facebook.com/kaocher82" target="_blank" rel="noopener noreferrer">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" alt="Facebook"/>
 </a><li>
 <a href="https://twitter.com/kaocher82" target="_blank" rel="noopener noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Shopfiy Developer on Twitter"/>
 </a><li>
 </p>
 
